@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://md-raihan-alam.github.io/stats-preview/)
+- [Solution Site](https://www.frontendmentor.io/solutions/html5bootstrap-and-inline-css-G_7MpRT-I)
+- [Live Site](https://md-raihan-alam.github.io/stats-preview/)
 
 ## My process
 
@@ -32,6 +32,5 @@ I will work on try working on next project with TAILWIND CSS and TYPESCRIPT. Hop
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Md-Raihan-Alam](https://www.frontendmentor.io/profile/Md-Raihan-Alam)
+- Twitter - [@MdRaiha48799193](https://www.frontendmentor.io/profile/Md-Raihan-Alam)
